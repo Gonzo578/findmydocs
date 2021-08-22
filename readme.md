@@ -14,4 +14,7 @@ This is a simple project summarizing interesting sources of information and usef
 ### Continuous Integration
 
 * [Continuous Integration of C/C++ Apps for IoT Devices - Diego Rodriguez-Losada & Daniel Manzaneque](https://youtu.be/9vq1cpd9Ez0)
+
+### CMake & Conan
+* [CMake + Conan: 3 Years Later - Mateusz Pusz - CppNow 2021](https://youtu.be/mrSwJBJ-0z8)
     
